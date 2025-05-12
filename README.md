@@ -49,6 +49,11 @@ The email will be sent to the recipient from your Gmail account.
 
 ## OUTPUT:
 An email will be delivered to the recipient with the subject and message body specified.
+![Screenshot 2025-05-12 090312](https://github.com/user-attachments/assets/17c09443-5eae-44ff-a074-6ff1bfc1edbd)
+
+![Screenshot 2025-05-12 090358](https://github.com/user-attachments/assets/3373b9ee-358d-4f6a-97f3-7de74e15912f)
+
+![Screenshot 2025-05-12 090552](https://github.com/user-attachments/assets/85d91a88-5d83-4ae9-a8ee-f1eed8c67373)
 
 ## Result:
 The UiPath workflow successfully sends an email from a Gmail account using SMTP configuration.
